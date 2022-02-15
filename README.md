@@ -1,3 +1,4 @@
+# Palantir
 *"Perilous to us all are the devices of an art deeper than we possess ourselves."*
 
 The Palantir is a tool to peer into the logs of IIS and other systems that generate W3C logs. It is optimized to scan large log files without having to lift them completely into memory.
