@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32113.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A3CAFE48-2728-488B-916D-02CE4301C717}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palantir.Desktop", "src\Palantir.Desktop\Palantir.Desktop.csproj", "{B03C099B-B7B6-48A5-95EE-C38C72DFC5DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20A8565C-E570-4E99-9935-D53D1E640A4A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		LICENSE.txt = LICENSE.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03C099B-B7B6-48A5-95EE-C38C72DFC5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03C099B-B7B6-48A5-95EE-C38C72DFC5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03C099B-B7B6-48A5-95EE-C38C72DFC5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03C099B-B7B6-48A5-95EE-C38C72DFC5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B03C099B-B7B6-48A5-95EE-C38C72DFC5DE} = {A3CAFE48-2728-488B-916D-02CE4301C717}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71FCE52-0C62-411E-A3B4-C683A483925E}
+	EndGlobalSection
+EndGlobal
